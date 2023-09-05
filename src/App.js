@@ -11,7 +11,7 @@ import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 
 const app = new Clarifai.App({
- apiKey: '6d4acbf6caa24903a3a5e812a54cfdf8'
+ apiKey: ''
 });
 
 const particlesOptions = {
